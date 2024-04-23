@@ -1,4 +1,4 @@
-pandas==2.2.2
-plotly==1.33.0
+pandas==1.4.2
+plotly==5.21.0
 streamlit==1.10.0
-google-generativeai==0.5.2 
+google-generativeai==0.5.2
